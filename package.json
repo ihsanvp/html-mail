@@ -1,0 +1,10 @@
+{
+  "name": "html-mail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.7.5",
+    "nodemailer-plugin-inline-base64": "^2.1.1"
+  }
+}
